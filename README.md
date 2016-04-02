@@ -41,6 +41,8 @@ Add *lensRadius* and *focalLength* variables to Camera class, sample camera.eye 
 |![](Rendering/DepthOfField/lensradius_1.bmp)|![](Rendering/DepthOfField/lensradius_2.bmp)|![](Rendering/DepthOfField/lensradius_3.bmp)|
 
 ## Transmissive material
-<em>Transmissive and reflective material renderer.</em><br>
-<img src="Rendering/Transmissive/cube_ball.bmp">
+
+|Transmissive and reflective material renderer|
+|-------------|
+|![](Rendering/Transmissive/cube_ball.bmp)|
 <br>
