@@ -5,7 +5,7 @@ Major features include **BDPT**,  **Progressive Rendering**, **Depth of Field** 
 
 ## Bidirectional Path Tracer Implementation
 <figure align="middle">
-  <img src="Rendering/bdpt1.png">
+  <img src="Rendering/bdpt1.png" align="middle">
   <figcaption><em>Fig1. Bidirectional path tracer(left) vs MIS path tracer(right).</em></figcaption>
 </figure>
 <br>
@@ -38,7 +38,7 @@ BVH took 3221ms to render a scene with 33K triangles and 1 sample per pixel.
 ## Progressive Rendering
 Implemented a new OpenGL shader to render the texture grabed from frame buffer to screen. And update the rendered texture in each render thread.
 <figure align="middle">
-  <img src="Rendering/ProgressiveRender/screenshot.tiff">
+  <img src="Rendering/ProgressiveRender/ScreenShot.jpg">
   <figcaption><em>Fig6. Screenshot of <b>progressive rendering</b>.</em></figcaption>
 </figure>
 <br>
