@@ -43,5 +43,5 @@ Add *lensRadius* and *focalLength* variables to Camera class, sample camera.eye 
 
 ## Transmissive material
 <em>Fig9. Transmissive and reflective material.</em><br>
-<img src="Rendering/transmissive/cube_ball.bmp">
+<img src="Rendering/Transmissive/cube_ball.bmp">
 <br>
